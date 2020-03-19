@@ -24,22 +24,26 @@ TODO: Add more description, if we want any
 
 ### Problem Statement
 
-TODO: Add section description
+The diversity of FOSS is vast and there are many different kinds of communities out there. Some projects are modest with 5-6 contributors working on something in their spare time. Some are the foundation of a company where hundreds or thousands of developers are working on them. This working group is focused on communities that are a combination of both. Aspirational projects that scale to hundreds or thousands of contributors that require community management that have different goals and decision making than a corporate backed or inner source project but still requires sophisticated metrics.
+
+
 
 
 ### Opportunity
 
-TODO: Add section description
-
+This is a gap that we believe should be filled by building an alliance amongst major stakeholders to build a metrics standard amongst a class of communities that have never actually built the level of sophistication before. As these tech communities migrate to more sophisticated development platforms like Gitlab - it's possible to start building foundational technologies that we can build on.
 
 ### Goal
 
-TODO: Add section description
+The goals of the working group is to build a base set of metrics that can shared amongst a set of communities (today that is GNOME and KDE) that we can then build upon for other communities.
 
 
 ## Objectives
 
-TODO: Add section description
+A few key objectives:
+* Document and explore the decisions that we make that we need metrics to explore
+* Build a set of metrics from those decisions
+* Present those metrics to the CHAOSS community for feedback
 
 
 ## Workflow
