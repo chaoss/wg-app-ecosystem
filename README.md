@@ -56,6 +56,7 @@ A few key objectives:
 ## Contributing
 
 * GitHub PR workflow
+* Commits require [DCO](https://developercertificate.org/)-sign-off (e.g., git flag "-s")
 * Each PR requires two (2) sign-offs (i.e., approved reviews) from maintainers, other than the submitter. (socially enforced)
 
 
