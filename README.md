@@ -48,16 +48,18 @@ A few key objectives:
 
 ## Workflow
 
-TODO: Add section description
+* Bi-weekly regular sync and working sessions via CHAOSS Zoom: https://unomaha.zoom.us/j/720431288 (day/time to be announced)
+* Real-time instant messaging: Matrix/Riot.im (to be announced)
+* Archived communication: CHAOSS mailing list for email list: https://lists.linuxfoundation.org/mailman/listinfo/chaoss
 
 
 ## Contributing
 
-TODO: Add section description
+* GitHub PR workflow
+* Each PR requires two (2) sign-offs (i.e., approved reviews) from maintainers, other than the submitter. (socially enforced)
 
 
 ## Contributors
-
 
 ### Maintainers
 
