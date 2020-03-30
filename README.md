@@ -4,8 +4,6 @@
 
 The mission of this working group is to figure out how to use community metrics in the context of the open source app ecosystem.
 
-TODO: Add more description, if we want any
-
 
 ## Table of Contents
 
