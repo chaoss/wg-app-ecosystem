@@ -48,7 +48,8 @@ A few key objectives:
 
 ## Workflow
 
-* Bi-weekly regular sync and working sessions via CHAOSS Zoom: https://unomaha.zoom.us/j/720431288 (day/time to be announced)
+* Bi-weekly regular sync and working sessions via CHAOSS Zoom: https://unomaha.zoom.us/j/720431288 
+  * Starting Monday April 6th, 2020, every other week at noon CST ([check your local time](https://arewemeetingyet.com/Chicago/2020-04-06/12:00/b/CHAOSS%20WG:%20App%20Ecosystem))
 * Real-time instant messaging: Matrix/Riot.im (to be announced)
 * Archived communication: CHAOSS mailing list for email list: https://lists.linuxfoundation.org/mailman/listinfo/chaoss
 
