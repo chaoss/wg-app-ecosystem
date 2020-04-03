@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The mission of this working group is to figure out how to use community metrics in the context of the open source app ecosystem.
+The mission of this working group is to build a base set of metrics that is focused on the needs of open source communities that are part of the FOSS app ecosystem.
 
 
 ## Table of Contents
@@ -49,6 +49,7 @@ A few key objectives:
 * Bi-weekly regular sync and working sessions via CHAOSS Zoom: https://unomaha.zoom.us/j/720431288 
   * Starting Monday April 6th, 2020, every other week at noon CST ([check your local time](https://arewemeetingyet.com/Chicago/2020-04-06/12:00/b/CHAOSS%20WG:%20App%20Ecosystem))
 * Real-time instant messaging: Matrix/Riot.im (to be announced)
+* [Meeting notes](https://docs.google.com/document/d/1HABrco2NGhchPLHK_PvKRsFHEU0fMfpnn0Axacv-OX8/edit#heading=h.spqvzrzdgrej)
 * Archived communication: CHAOSS mailing list for email list: https://lists.linuxfoundation.org/mailman/listinfo/chaoss
 
 
