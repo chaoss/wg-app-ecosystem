@@ -1,5 +1,14 @@
 # CHAOSS App Ecosystem Working Group
 
+---
+
+🚨 The CHAOSS App Ecosystem WG goes on a hiatus for the holidays and resume meetings on January 11th, 2021. 
+
+In the meantime, we advance our work and coordinate asynchronously via Matrix ([join the conversation](https://matrix.to/#/!jfzkFKyGWrODFcwpLp:matrix.org?via=matrix.org&via=kde.org&via=t2bot.io)).
+
+---
+
+
 ## Introduction
 
 The mission of this working group is to build a base set of metrics that is focused on the needs of open source communities that are part of the FOSS app ecosystem.
@@ -25,11 +34,10 @@ The mission of this working group is to build a base set of metrics that is focu
 The diversity of FOSS is vast and there are many different kinds of communities out there. Some projects are modest with 5-6 contributors working on something in their spare time. Some are the foundation of a company where hundreds or thousands of developers are working on them. This working group is focused on communities that are a combination of both. Aspirational projects that scale to hundreds or thousands of contributors that require community management that have different goals and decision making than a corporate backed or inner source project but still requires sophisticated metrics.
 
 
-
-
 ### Opportunity
 
 This is a gap that we believe should be filled by building an alliance amongst major stakeholders to build a metrics standard amongst a class of communities that have never actually built the level of sophistication before. As these tech communities migrate to more sophisticated development platforms like Gitlab - it's possible to start building foundational technologies that we can build on.
+
 
 ### Goal
 
@@ -47,8 +55,8 @@ A few key objectives:
 ## Workflow
 
 * Bi-weekly regular sync and working sessions via CHAOSS Zoom: https://zoom.us/j/4998687533 
-  * Starting Monday April 6th, 2020, every other week at noon CST ([check your local time](https://arewemeetingyet.com/Chicago/2020-04-06/12:00/b/CHAOSS%20WG:%20App%20Ecosystem))
-* Real-time instant messaging: [Matrix/Riot.im](https://riot.im/app/#/room/#chaoss-community-metrics:matrix.org)
+  * Starting Monday January 11th, 2021, every other week at noon US Central Time ([check your local time](https://arewemeetingyet.com/Chicago/2021-01-11/12:00/b/CHAOSS%20WG:%20App%20Ecosystem))
+* Real-time instant messaging: [Matrix](https://matrix.to/#/!jfzkFKyGWrODFcwpLp:matrix.org?via=matrix.org&via=kde.org&via=t2bot.io)
 * [Meeting notes](https://docs.google.com/document/d/1HABrco2NGhchPLHK_PvKRsFHEU0fMfpnn0Axacv-OX8/edit#heading=h.spqvzrzdgrej)
 * Archived communication: CHAOSS mailing list for email list: https://lists.linuxfoundation.org/mailman/listinfo/chaoss
 
