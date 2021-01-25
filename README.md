@@ -56,7 +56,7 @@ A few key objectives:
  * [Other identified personas](https://docs.google.com/document/d/1ghREXIO5C9PLiwXMtouOR4AjPLGz9pD34LIxO8N2-xo/edit)
 
 **In-Progress**
- * [Promotions and Communications team persona]() -- FIXME
+ * Persona: [Promotions and Communications Team](https://docs.google.com/document/d/12dQzl2-KWczTrNG38C9DXZg259YiIgeJDoBVV-jxU0c/edit#)
  
 **Completed**
  * [Event organizer persona](https://github.com/chaoss/wg-app-ecosystem/blob/master/event-organizers.md) - details the metrics we've developed for the event-organizer persona and ideas on how to implement them
