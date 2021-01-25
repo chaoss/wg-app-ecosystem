@@ -51,6 +51,20 @@ A few key objectives:
 * Build a set of metrics from those decisions
 * Present those metrics to the CHAOSS community for feedback
 
+## Reports and progress
+**Backlog**
+ * [Other identified personas](https://docs.google.com/document/d/1ghREXIO5C9PLiwXMtouOR4AjPLGz9pD34LIxO8N2-xo/edit)
+
+**In-Progress**
+ * Persona: [Promotions and Communications Team](https://docs.google.com/document/d/12dQzl2-KWczTrNG38C9DXZg259YiIgeJDoBVV-jxU0c/edit#)
+ 
+**Completed**
+ * [Event organizer persona](https://github.com/chaoss/wg-app-ecosystem/blob/master/event-organizers.md) - details the metrics we've developed for the event-organizer persona and ideas on how to implement them
+   * Related blog post: [How we develop success metrics for open source events](https://opensource.com/article/20/11/chaoss-open-source-events) - an overview of this working group, the event-organizer persona, and introduction to the set of metrics we've developed for this persona
+   
+**Other outputs**
+ * [Talk on CHAOSS at GUADEC 2020](https://www.youtube.com/watch?v=qYzqsDHp09s&list=PLkmRdYgttscE1mTtyTvj0hx34gVAKpC4H&index=9&t=0s)
+
 
 ## Workflow
 
