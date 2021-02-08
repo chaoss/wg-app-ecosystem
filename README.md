@@ -71,7 +71,9 @@ A few key objectives:
 * Bi-weekly regular sync and working sessions via CHAOSS Zoom: https://zoom.us/j/4998687533 
   * Starting Monday January 11th, 2021, every other week at noon US Central Time ([check your local time](https://arewemeetingyet.com/Chicago/2021-01-11/12:00/b/CHAOSS%20WG:%20App%20Ecosystem))
 * Real-time instant messaging: [Matrix](https://matrix.to/#/!jfzkFKyGWrODFcwpLp:matrix.org?via=matrix.org&via=kde.org&via=t2bot.io)
-* [Meeting notes](https://docs.google.com/document/d/1HABrco2NGhchPLHK_PvKRsFHEU0fMfpnn0Axacv-OX8/edit#heading=h.spqvzrzdgrej)
+* Meeting notes
+   * [2021 Meeting Notes](https://docs.google.com/document/d/1lhZhIXQuYLlPg31htzfzUnJtOnoh7Xli18s7IxfLOHw/edit#)
+   * [2020 Meeting Notes](https://docs.google.com/document/d/1ki4EuCpazexYtZBPkiw2xQVoIO_6v9jt8Xe5kzSk92M/edit#heading=h.kqagbt4r6t3m)
 * Archived communication: CHAOSS mailing list for email list: https://lists.linuxfoundation.org/mailman/listinfo/chaoss
 
 
