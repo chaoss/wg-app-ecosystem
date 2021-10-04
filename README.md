@@ -2,7 +2,7 @@
 
 ---
 
-🚨 The CHAOSS App Ecosystem WG goes on a hiatus for the holidays and resume meetings on January 11th, 2021. 
+🚨 The CHAOSS App Ecosystem WG goes on a hiatus for the holidays. Last meeting will be November 15, 2021 and we resume meetings on January 13, 2022. 
 
 In the meantime, we advance our work and coordinate asynchronously via Matrix ([join the conversation](https://matrix.to/#/!jfzkFKyGWrODFcwpLp:matrix.org?via=matrix.org&via=kde.org&via=t2bot.io)).
 
@@ -61,6 +61,7 @@ A few key objectives:
 **Completed**
  * [Event organizer persona](https://github.com/chaoss/wg-app-ecosystem/blob/master/event-organizers.md) - details the metrics we've developed for the event-organizer persona and ideas on how to implement them
    * Related blog post: [How we develop success metrics for open source events](https://opensource.com/article/20/11/chaoss-open-source-events) - an overview of this working group, the event-organizer persona, and introduction to the set of metrics we've developed for this persona
+   * [October 2021 Revision of the metrics presented as a slidedeck](./Metrics%20for%20OSS%20Event%20Organizers%20-%20CHAOSS%20App%20Ecosystem%20(Oct%202021).pdf)
    
 **Other outputs**
  * [Talk on CHAOSS at GUADEC 2020](https://www.youtube.com/watch?v=qYzqsDHp09s&list=PLkmRdYgttscE1mTtyTvj0hx34gVAKpC4H&index=9&t=0s)
