@@ -1,14 +1,5 @@
 # CHAOSS App Ecosystem Working Group
 
----
-
-🚨 The CHAOSS App Ecosystem WG goes on a hiatus for the holidays. Last meeting will be November 15, 2021 and we resume meetings on January 10, 2022. 
-
-In the meantime, we advance our work and coordinate asynchronously via Matrix ([join the conversation](https://matrix.to/#/!jfzkFKyGWrODFcwpLp:matrix.org?via=matrix.org&via=kde.org&via=t2bot.io)).
-
----
-
-
 ## Introduction
 
 The mission of this working group is to build a base set of metrics that is focused on the needs of open source communities that are part of the FOSS app ecosystem.
