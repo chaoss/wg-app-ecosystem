@@ -2,7 +2,7 @@
 
 ---
 
-🚨 The CHAOSS App Ecosystem WG goes on a hiatus for the holidays. Last meeting will be November 15, 2021 and we resume meetings on January 10, 2022. 
+🚨 The CHAOSS App Ecosystem WG goes on a hiatus for the holidays. Last meeting will be the week of November 8th, and we resume meetings on January 10th. 
 
 In the meantime, we advance our work and coordinate asynchronously via Matrix ([join the conversation](https://matrix.to/#/!jfzkFKyGWrODFcwpLp:matrix.org?via=matrix.org&via=kde.org&via=t2bot.io)).
 
